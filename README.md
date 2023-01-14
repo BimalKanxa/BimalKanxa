@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [www.cscoder.in](www.cscoder.in)
 
-- 📝 I regularly write articles on [www.techyx.me](www.techyx.me)
 
 - 💬 Ask me about **javascript, reactJs, Projects**
 
