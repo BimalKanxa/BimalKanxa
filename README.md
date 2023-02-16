@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **javascript, reactJs, Projects**
 
-- 📫 How to reach me **sharmabimal2003@gmail.com**
+- 📫 How to reach me **[Let's get in touch!][linkedin]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
